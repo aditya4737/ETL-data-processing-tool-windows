@@ -1,0 +1,15 @@
+# Core app dependencies
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+
+# Streamlit UI components
+streamlit-sortables==0.3.1
+
+# Optional: for file handling and data cleaning
+openpyxl
+pyarrow
+
+# Optional: for charts or plotting (uncomment if you use them)
+# matplotlib
+# plotly
